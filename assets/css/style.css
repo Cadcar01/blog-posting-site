@@ -1,0 +1,14 @@
+* {
+    padding: 5px;
+}
+
+.dark {
+    background-color: rgb(33, 33, 36);
+    color: white;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
+
