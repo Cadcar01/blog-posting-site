@@ -1,0 +1,32 @@
+.forms ul{
+    list-style: none;
+}
+
+.dark div {
+    border-color: lightgrey;
+}
+
+.forms{
+    border: 10px double black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.forms ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.forms textarea {
+    resize: none;
+    width: 15rem;
+    height: 1.5rem;
+}
+
+#blogContent {
+    height: 3rem;
+}
